@@ -1,2 +1,2 @@
 # PCLP3
-All labs from PCLP3
+All labs for PCLP3.
